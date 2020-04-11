@@ -31,5 +31,5 @@ public class ShopController {
 		return "result.html";
 	   }
 	
-	
+	This is a important change made in shopcontroller page
 }
